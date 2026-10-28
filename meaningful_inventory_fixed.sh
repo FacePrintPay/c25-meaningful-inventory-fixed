@@ -30,3 +30,5 @@ echo "Inventory complete:"
 echo "  Files list : $MASTER"
 echo "  Type counts: $OUT/files_by_type.txt"
 echo "  Total meaningful files: $(wc -l < "$MASTER")"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=meaningful_inventory_fixed.sh
